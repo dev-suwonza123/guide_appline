@@ -1,4 +1,4 @@
-# สอนการทำ LIFF (LINE Front-end Framework) 
+# สอนการทำ LIFF 
 วันนี้จะมาสอนวิธีการสร้าง Line Flex ด้วย LINE Front-end Framework (LIFF)
 ## สิ่งที่ต้องเตรียม  
 - ดาวโหลดและติดตั้ง [VS code](https://code.visualstudio.com/) ให้เรียบร้อย  
